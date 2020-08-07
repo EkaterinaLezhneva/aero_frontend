@@ -1,0 +1,25 @@
+$secondary: grey;
+
+.product-card {
+  width: 320px;
+  padding: 20px 20px 30px;
+  background-color: white;
+
+  &__code {
+    color: $secondary;
+  }
+
+  &__title {
+    white-space: normal;
+    margin: 0;
+  }
+
+  &__param-name {
+    color: $secondary;
+  }
+
+  &__image {
+    width: 320px;
+    height: 250px;
+  }
+}

@@ -1,0 +1,8 @@
+*.scss
+*.css
+*.test.tsx
+*.d.ts
+build/*
+public/*
+src/react-app-env.d.ts
+src/serviceWorker.ts

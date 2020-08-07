@@ -1,0 +1,9 @@
+.product-card__availability {
+  &_available {
+    color: green;
+  }
+
+  &_not-available {
+    color: red;
+  }
+}
